@@ -1,0 +1,11 @@
+#Directories
+bin/*
+doxygen/*
+obj/*
+
+
+
+#Files
+*.cbp
+*.depend
+*.layout
